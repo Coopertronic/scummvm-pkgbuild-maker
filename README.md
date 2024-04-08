@@ -26,4 +26,5 @@ The app will have created the following things in the zip file:
 
 Once the `PKGBUILD` has been made then it would be a nice touch if the app offered to install it for you. 
 
-A batch mode to make and/or install multiple `PKGBUILD` scummvm games 
+A batch mode to make and/or install multiple `PKGBUILD` scummvm games.
+
